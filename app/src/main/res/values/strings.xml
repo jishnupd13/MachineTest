@@ -6,4 +6,12 @@
     <string name="search">Search...</string>
     <string name="categories">Categories</string>
     <string name="see_all">See All</string>
+    <string name="hot_deals">Hot Deals</string>
+    <string name="shops_near_you">Shops Near You</string>
+    <string name="new_arrivals">New Arrivals</string>
+    <string name="e_expo_s_pick">e-expo\'s pick</string>
+    <string name="special_offer">Special Offer</string>
+    <string name="upto_50_off">Upto 50% off</string>
+    <string name="lunch_time_lineup">Lunch time lineup</string>
+    <string name="times">5 Days : 8 Hrs : 54 Min :21 Sec</string>
 </resources>
