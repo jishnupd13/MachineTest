@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">AdroidMachineTestApp</string>
+    <string name="app_name">AndroidMachineTestApp</string>
     <string name="sample_machine_test">Sample Machine Test</string>
     <string name="work">Work</string>
     <string name="location">Kuwait hospital, 00654...</string>
