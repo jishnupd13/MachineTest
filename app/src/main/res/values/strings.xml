@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">AndroidMachineTestApi</string>
+    <string name="sample_machine_test_api">Sample Machine Test(Api)</string>
+    <string name="users">Users</string>
+    <string name="user_details">User Details</string>
+</resources>
